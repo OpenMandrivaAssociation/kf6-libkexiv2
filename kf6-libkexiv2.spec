@@ -1,6 +1,6 @@
 %define libname %mklibname KF6KExiv2
 %define devname %mklibname KF6KExiv2 -d
-%define git 20230927
+%define git 20231005
 
 Name: kf6-libkexiv2
 Version: 5.240.0
