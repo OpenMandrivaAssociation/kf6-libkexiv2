@@ -7,7 +7,7 @@
 #define git 20231103
 
 Name: kf6-libkexiv2
-Version: 24.01.75
+Version: 24.01.80
 Release: %{?git:0.%{git}.}1
 %if 0%{?git:1}
 Source0: https://invent.kde.org/graphics/libkexiv2/-/archive/master/libkexiv2-master.tar.bz2#/libkexiv2-%{git}.tar.bz2
