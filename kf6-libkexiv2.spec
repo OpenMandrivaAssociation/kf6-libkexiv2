@@ -8,7 +8,7 @@
 
 Name: kf6-libkexiv2
 Version: 24.01.90
-Release: %{?git:0.%{git}.}1
+Release: %{?git:0.%{git}.}2
 %if 0%{?git:1}
 Source0: https://invent.kde.org/graphics/libkexiv2/-/archive/master/libkexiv2-master.tar.bz2#/libkexiv2-%{git}.tar.bz2
 %else
